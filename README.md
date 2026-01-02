@@ -12,7 +12,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamlio/EHInterface/re
 **v0.1.0 — Beta**
 
 **Developed by:** APR Team
-**Project:** EHInterface
+\n**Project:** EHInterface
 
 ---
 
