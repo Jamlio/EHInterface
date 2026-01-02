@@ -8,7 +8,7 @@ This release represents the first public beta, intended to showcase core functio
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamlio/EHInterface/refs/heads/main/script.lua"))()
 ```
 
-### 📌 Version
+## 📌 Version
 **v0.1.0 — Beta**
 **Developed by:** APR Team
 **Project:** EHInterface
