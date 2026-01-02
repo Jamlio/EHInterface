@@ -11,122 +11,102 @@ This release represents the first public beta, intended to showcase core functio
 
 ---
 
-## 🖥️ What Is It?
+## ⚙️ Current Features
 
-PrayLab is designed to run on a display monitor or TV—making it ideal for:
+### 🧾 Info
 
-- 🕌 Mosques and prayer halls
-- 🏠 Personal prayer corners
-- 🏢 Community centers
-- 📺 Any space where a visual dashboard is helpful
+- Version Info
+- Server Info
 
-It can be controlled from any device (phone, tablet, or computer) and displays:
+### 👁️ Visuals
 
-- 🕋 Daily prayer times
-- ⚽ Live soccer scores
-- 📡 Livestreams (e.g., YouTube, Twitch)
-- 📢 Community announcements
+- Camera Max Distance
+- Night Vision
+- Player ESP Distance
 
-## 📌 Overview
+### 🏃 Movements
 
-PrayLab includes:
+- Infinite Jump
+- Fly
+- Noclip
+- Movement Safety Warning
 
-- A clean, responsive web interface
-- Prayer tracking and journaling features
-- Configurable settings via `config.json` or the control panel. (Accesebull from any device)
-- A smart installer (`praylab.php`) that handles setup automatically without the need to install a zip package
+### 🚗 Vehicle Mods
 
----
+- Unlimited Vehicle Health
+- Unlimited Vehicle Fuel
+- Unlimited Tuning Levels
+- Remove Bollards
+- Remove Gates
+- Remove Highway Barriers
+- Bring Vehicle to Player
 
-## ⚙️ Requirements
+### 🗺️ Teleports
 
-To run PrayLab, your server must support:
+- Teleport to Nearest Dealer *(Will be improved in feature updated)*
 
-- PHP **7.4+**
-- PHP extensions:
-  - `zip`
-  - `curl`
-  - `json`
-- Write permissions in the root directory
-- Internet access (for installer and data updates)
+### 🎯 ESP
 
----
+- Name ESP
+- Distance ESP
+- Skeleton ESP
+- Box ESP
+- Team Color ESP
+- ESP Distance Limiter
 
-## ✨ Features
+### 🌀 Misk
 
-### 🧠 Core App Features
+- Spinbot
+- Spin Speed
+- Freecam (Left Shift + P)
+- Spectate Player
+- Spectate Camera Modes
+  - Orbit
+  - First Person
+  - Top Down
+  - Follow
+- Spectate Zoom Control
 
-- 📆 **Prayer Tracker**: Log and view daily prayers (updated in real time)
-- 📝 **Journal Entries**: Reflect and record spiritual notes
-- 🌙 **Dark Mode**: Beautiful, distraction-free interface
-- 🔧 **Configurable Settings**: Customize via `config.json` and control panel
-- 🌐 **Offline-Friendly**: Minimal dependencies, fast loading
-- 🔒 **Privacy-First**: No external analytics or tracking, the script is yours
+### 🖥️ Interface & System
 
-### 🛠️ Installer Features (`praylab.php`)
-
-- 📡 Fetches latest version from PrayLab server
-- 🎨 Dark-themed UI with animated branding
-- 📊 Live status updates during install
-- 🧹 Self-deletes after successful setup
-- 🔁 Redirects to `index.php` automatically
-- 🧾 Logs progress to `install.log`
-
----
-
-## ⚙️ Installation Guide
-
-PrayLab can be installed in two easy ways: using a single-file installer or by uploading the full ZIP package.
-
-
-### 🧩 Option 1: Single-File Installer
-
-This is the fastest way to get PrayLab up and running.
-
-#### ✅ Steps:
-
-1. **Download the installer**  
-   Get the latest `praylab.php` file from the [Releases](https://pray-lab.vercel.app/praylab.php).
-
-2. **Upload to your server**  
-   Place `praylab.php` in the root directory of your PHP-enabled server.
-
-3. **Run the installer**  
-   Open your browser and navigate to: http://yourdomain.com/praylab.php
-
-4. **Follow the setup prompts**  
-The installer will automatically download the latest version, extract files, and configure your environment.
-
-
-### 📦 Option 2: Full ZIP Package
-
-Use this method if you prefer manual setup or want to customize files before installation.
-
-#### ✅ Steps:
-
-1. **Download the ZIP**  
-Get the latest release from the [Releases](https://pray-lab.vercel.app/latest-version.json).
-
-2. **Extract the ZIP**  
-Unzip the package to your server.
-
-3. **Upload to your server**  
-Use FTP, SCP, or your hosting control panel to upload all files to your server directory.
-
-4. **Open in browser**  
-Navigate to: http://yourdomain.com/
-
-5. **Configure settings**  
-Follow the configuration proccess and you should be good to go.
+- Keybind System
+- Configuration Save Manager
+- Interface Manager
+- Theme & UI Management
+- Dark Theme UI
+- Fluent UI Framework
 
 ---
 
-## 🖥️ Display Setup
+## 🧪 Beta Status
 
-- Connect a monitor or TV to your server or device. (We recommend Kiosk mode browser on Android tv's, or use a Tv stick)
-- Open PrayLab in full-screen.
-- Control settings remotely from any device in the https://yourdomain.com/control.php.
+This version is classified as a **BETA RELEASE**:
+
+- Some features may be incomplete or subject to change
+- Bugs or instability may occur
+- Performance optimizations are ongoing
+- Anti-cheat safety is actively being improved
+
+Your feedback during this phase is **highly valuable** and will directly influence future updates.
 
 ---
 
-Made with ❤️ by Legendukas
+## 🚧 In Active Development
+
+EHInterface is **not finished**.
+Planned updates include (but are not limited to):
+
+- Expanded ESP customization (distance limits, visibility checks)
+- Improved performance optimizations
+- Additional movement & vehicle features
+- UI refinements and theme options
+- Teleportation features
+- Stability and safety improvements
+- Full release version with finalized systems
+
+---
+
+## ⚠️ Disclaimer
+
+Use responsibly.
+Certain features may conflict with in-game systems or anti-cheat mechanisms. The developers are **not responsible** for any actions taken against accounts due to misuse.
