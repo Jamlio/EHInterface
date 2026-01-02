@@ -10,9 +10,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamlio/EHInterface/re
 
 ### 📌 Version
 **v0.1.0 — Beta**
-
 **Developed by:** APR Team
-
 **Project:** EHInterface
 
 ---
