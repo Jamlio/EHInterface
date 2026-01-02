@@ -3,6 +3,10 @@
 **EHInterface** is a modern, feature-rich interface designed to enhance gameplay with advanced utilities, clean visuals, and performance-focused systems.
 This release represents the first public beta, intended to showcase core functionality while the project remains under **active development**.
 
+```ruby
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamlio/EHInterface/refs/heads/main/script.lua"))()
+```
+
 ### 📌 Version
 **v0.1.0 — Beta**
 
