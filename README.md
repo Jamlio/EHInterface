@@ -1,4 +1,4 @@
-![Project Screenshot](main.png)
+![EHInterface](banner.png)
 # EHInterface — Beta Release
 
 **EHInterface** is a modern, feature-rich interface designed to enhance gameplay with advanced utilities, clean visuals, and performance-focused systems.
